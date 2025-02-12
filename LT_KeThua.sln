@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LT_KeThua", "LT_KeThua\LT_KeThua.csproj", "{CC5A0BA5-F2D6-4CAB-A4E2-0748B21589A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 2", "Bai 2\Bai 2.csproj", "{642DC02F-D770-4ECA-95D5-189E00151E8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 1", "Bai 1\Bai 1.csproj", "{E32B2249-4CA7-45E3-8399-81076E788561}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{CC5A0BA5-F2D6-4CAB-A4E2-0748B21589A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC5A0BA5-F2D6-4CAB-A4E2-0748B21589A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC5A0BA5-F2D6-4CAB-A4E2-0748B21589A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642DC02F-D770-4ECA-95D5-189E00151E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642DC02F-D770-4ECA-95D5-189E00151E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642DC02F-D770-4ECA-95D5-189E00151E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642DC02F-D770-4ECA-95D5-189E00151E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E32B2249-4CA7-45E3-8399-81076E788561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E32B2249-4CA7-45E3-8399-81076E788561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E32B2249-4CA7-45E3-8399-81076E788561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E32B2249-4CA7-45E3-8399-81076E788561}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
